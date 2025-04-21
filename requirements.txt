@@ -1,0 +1,12 @@
+# TensorFlow and Keras (merged in recent versions)
+tensorflow==2.13.0
+keras==2.13.1
+
+# imutils, numpy, and opencv for image processing and mathematical operations
+imutils==0.5.4
+numpy==1.24.3
+opencv-python==4.8.0.76
+
+# Matplotlib and SciPy for plotting and scientific calculations
+matplotlib==3.8.0
+scipy==1.11.2
